@@ -2,7 +2,7 @@
 version = "0.1.0"
 readme = "README.md"
 name = "thejpster-test-docs-target"
-license = "CC0"
+license = "CC0-1.0"
 edition = "2021"
 description = "A test project that you should ignore"
 authors = [ "Jonathan 'theJPster' Pallant" ]
