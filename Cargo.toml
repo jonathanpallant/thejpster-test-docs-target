@@ -1,5 +1,5 @@
 [package]
-version = "0.1.0"
+version = "0.2.0-rc.1"
 readme = "README.md"
 name = "thejpster-test-docs-target"
 license = "CC0-1.0"
